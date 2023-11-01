@@ -1,3 +1,3 @@
-const baseUrl = "https://provisionazureaccount.azurewebsites.net:3001";
+const baseUrl = "https://provisionazureaccount.azurewebsites.net";
 
 export default baseUrl;
