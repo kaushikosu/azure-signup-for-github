@@ -7,7 +7,7 @@ function App() {
   return (
     <div className="App">
       <h1>
-        Home page
+        Home page of App Component
       </h1>
       <Button onClick={() => navigate("create")}> Next </Button>
     </div>
