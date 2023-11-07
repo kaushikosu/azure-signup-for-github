@@ -1,3 +1,3 @@
-const baseUrl = "http://localhost:3001";
+const baseUrl = "https://azforgithublinux.azurewebsites.net:3001";
 
 export default baseUrl;
